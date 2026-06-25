@@ -9,7 +9,7 @@ Built on Amazon PartyRock, powered by Claude Sonnet 4.
 
 <!-- 📸 Add a screenshot of the app here -->
 <p align="center">
-  <img src="screenshot.png" alt="ATS Helper app preview" width="800">
+  <img src="app.png" alt="ATS Helper app preview" width="800">
 </p>
 
 ---
@@ -28,7 +28,7 @@ It only takes three inputs to generate everything below:
 
 <!-- 🖼️ Add your widget flow diagram here -->
 <p align="center">
-  <img src="flow-diagram.png" alt="How the widgets connect" width="800">
+  <img src="flow.png" alt="How the widgets connect" width="800">
 </p>
 
 ##  What you get
@@ -75,6 +75,4 @@ Everything ATS Helper produces is checked against your real resume. It can polis
 
 **⚠️ Important:** All outputs preserve your original facts — nothing is invented or exaggerated.
 
-![Flow]()
-![App]()
 
